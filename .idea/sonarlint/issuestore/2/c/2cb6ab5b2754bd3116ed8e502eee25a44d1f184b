@@ -1,0 +1,12 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®¾‘İ8€ÊúŞÈ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Şõ£öüÿÿÿÿ8€ÊúŞÈ.
+;
+java:S1659" Declare "n2" on a separate line.(‰ˆÔş8€ÊúŞÈ.
+;
+java:S1659" Declare "n3" on a separate line.(‰ˆÔş8€ÊúŞÈ.
+`	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®ÈàË
+0
+java:S1220""Move this file to a named package.
+X
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8€ÊúŞÈ.

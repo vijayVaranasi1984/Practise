@@ -1,0 +1,59 @@
+
+N
+java:S1481.",Remove this unused "intList" local variable.(ˆì îýÿÿÿÿ8ÿ« áÈ.
+]	java:S125A"<This block of commented-out lines of code should be removed.(ÂÍé¿øÿÿÿÿ8ÿ« áÈ.
+]	java:S125!"<This block of commented-out lines of code should be removed.(Š˜ê üÿÿÿÿ8ÿ« áÈ.
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8ÿ« áÈ.
+Z
+java:S1854=">Remove this useless assignment to local variable "intStream1".(ç±™y8ÿ« áÈ.
+W
+java:S1854g":Remove this useless assignment to local variable "input1".(¯ÜŸ¼8ÿ« áÈ.
+L
+java:S1481>"/Remove this unused "intStream2" local variable.(Óþü§8ÿ« áÈ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‘ú¥û8ÿ« áÈ.
+X	java:S125W"<This block of commented-out lines of code should be removed.(ðºÝ8ÿ« áÈ.
+Y
+java:S18540"=Remove this useless assignment to local variable "intArray3".(Ùæÿ	8ÿ« áÈ.
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8ÿ« áÈ.
+]	java:S1257"<This block of commented-out lines of code should be removed.(ìãµåüÿÿÿÿ8ÿ« áÈ.
+W	java:S125H"<This block of commented-out lines of code should be removed.(ÉªÇy8ÿ« áÈ.
+G
+java:S1481"*Remove this unused "array" local variable.(íÔÅü8ÿ« áÈ.
+F
+java:S1481U")Remove this unused "each" local variable.(Ÿ®¨Ó8ÿ« áÈ.
+Q
+java:S1481,"/Remove this unused "stringList" local variable.(Ä¢í´ÿÿÿÿÿ8ÿ« áÈ.
+K
+java:S1481="/Remove this unused "intStream1" local variable.(ç±™y8ÿ« áÈ.
+H
+java:S1481",Remove this unused "intlist" local variable.(åœ¾x8ÿ« áÈ.
+]
+java:S1854.";Remove this useless assignment to local variable "intList".(ˆì îýÿÿÿÿ8ÿ« áÈ.
+]	java:S125J"<This block of commented-out lines of code should be removed.(˜¦À’úÿÿÿÿ8ÿ« áÈ.
+`
+java:S1854,">Remove this useless assignment to local variable "stringList".(Ä¢í´ÿÿÿÿÿ8ÿ« áÈ.
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8ÿ« áÈ.
+W	java:S125E"<This block of commented-out lines of code should be removed.(ÉªÇy8ÿ« áÈ.
+7
+java:S1220""Move this file to a named package.8ÿ« áÈ.
+O
+java:S3958>"2Refactor the code so this stream pipeline is used.(Óþü§8ÿ« áÈ.
+N
+java:S3958="2Refactor the code so this stream pipeline is used.(ç±™y8ÿ« áÈ.
+j
+java:S3973P"HUse indentation to denote the code conditionally executed by this "for".(ÿ„ð´ÿÿÿÿÿ8ÿ« áÈ.
+[
+java:S1854>">Remove this useless assignment to local variable "intStream2".(Óþü§8ÿ« áÈ.
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8ÿ« áÈ.
+]	java:S125]"<This block of commented-out lines of code should be removed.(Ý„Î×úÿÿÿÿ8ÿ« áÈ.
+W
+java:S1854";Remove this useless assignment to local variable "intlist".(åœ¾x8ÿ« áÈ.
+V
+java:S1854"9Remove this useless assignment to local variable "array".(íÔÅü8ÿ« áÈ.
+X	java:S125j"<This block of commented-out lines of code should be removed.(ƒò¯õ8ÿ« áÈ.
+J
+java:S14810".Remove this unused "intArray3" local variable.(Ùæÿ	8ÿ« áÈ.
+R
+java:S1854"5Remove this useless assignment to local variable "j".(Û±žÕ8ÿ« áÈ.
+™
+java:S2681U"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(Ÿ®¨Ó8ÿ« áÈ.

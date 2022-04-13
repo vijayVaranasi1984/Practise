@@ -1,0 +1,14 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’ÕÓ×8·ãìÒÈ.
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼çú‡8£ô€ÓÈ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»ãà¼8ãœ ÓÈ.
+y
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Éş‰ıùÿÿÿÿ8¦ê÷ÒÈ.
+N
+java:S1128"3Remove this unused import 'java.util.NavigableSet'.(Á¶³Œ8íÙ®×È.
+J
+java:S1611"/Remove the parentheses around the "x" parameter(»ãà¼8ãœ ÓÈ.
+f
+java:S1192"FDefine a constant instead of duplicating this literal "vijay" 3 times.(ûŠ–üÿÿÿÿ8×½˜ÓÈ.
+[	java:S125"<This block of commented-out lines of code should be removed.(²‡ã€üÿÿÿÿ8Ñ‡ŠÓÈ.

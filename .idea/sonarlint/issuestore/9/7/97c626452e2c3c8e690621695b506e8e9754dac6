@@ -1,0 +1,19 @@
+
+[
+java:S1854">Remove this useless assignment to local variable "Distarrlst".(·Šò¾8°Ì“áÈ.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–Â«öıÿÿÿÿ8°Ì“áÈ.
+{
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(Éş‰ıùÿÿÿÿ8°Ì“áÈ.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·Šò¾8°Ì“áÈ.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(½¬Ù‹şÿÿÿÿ8İğœáÈ.
+Q
+java:S1611("/Remove the parentheses around the "x" parameter(½¬Ù‹şÿÿÿÿ8İğœáÈ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÀñ8°Ì“áÈ.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ØµÈ8°Ì“áÈ.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Šò¾8°Ì“áÈ.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ûæáüÿÿÿÿ8°Ì“áÈ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(šıŸ¬øÿÿÿÿ8°Ì“áÈ.
+n	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(øºÒÇşÿÿÿÿ8°Ì“áÈ.

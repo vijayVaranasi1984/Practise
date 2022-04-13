@@ -1,0 +1,23 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(¦ƒ‰¡øÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(¦ƒ‰¡øÿÿÿÿ
+B
+java:S1612$",Replace this lambda with a method reference.(³±¿
+G
+java:S1612)",Replace this lambda with a method reference.(›¯¥Öùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+P
+java:S1854
+":Remove this useless assignment to local variable "llist3".(úŠ±Õ
+S
+java:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(³±¿
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(›¯¥Öùÿÿÿÿ
+A
+java:S1481
+"+Remove this unused "llist3" local variable.(úŠ±Õ
+V	java:S125"<This block of commented-out lines of code should be removed.(¿¨Ôøÿÿÿÿÿ

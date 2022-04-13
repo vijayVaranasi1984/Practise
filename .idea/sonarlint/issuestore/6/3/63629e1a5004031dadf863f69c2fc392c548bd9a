@@ -1,0 +1,13 @@
+
+N
+java:S1197"8Move the array designator from the variable to the type.(ÂÔÈ—
+0
+java:S1220""Move this file to a named package.
+S
+java:S1197"8Move the array designator from the variable to the type.(ì…ãüüÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‹£ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(šçô
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ôãïÛûÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÓ²Òşÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï“¬î
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ı„ñ¥

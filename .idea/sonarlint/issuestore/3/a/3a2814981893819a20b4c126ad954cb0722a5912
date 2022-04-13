@@ -1,0 +1,27 @@
+
+}
+java:S4165W"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(ìÛ¶ïÿÿÿÿÿ
+}
+java:S4165X"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(éœ«áøÿÿÿÿ
+Œ
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(Ý¾ìœûÿÿÿÿ
+x
+java:S4165V"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(û˜€«
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(²º¾¸
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ýà¯
+}
+java:S4165U"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(ˆŽ¨Éùÿÿÿÿ
+x
+java:S4165Y"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(öÖòÎ
+}
+java:S4165S"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(îžß ÿÿÿÿÿ
+}
+java:S4165T"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(è€ºëùÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(„üÌ¹ûÿÿÿÿ
+‹
+java:S1319"pThe type of the "list" object should be an interface such as "List" rather than the implementation "LinkedList".(Ý¾ìœûÿÿÿÿ
+}
+java:S4165Z"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(º‰¸Ùýÿÿÿÿ
+†
+java:S13198"pThe type of the "list" object should be an interface such as "List" rather than the implementation "LinkedList".(ÿ·ˆÏ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿë‚”

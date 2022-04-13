@@ -1,0 +1,18 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«€Û¡øÿÿÿÿ8ÁÓÙßÈ.
+h
+java:S1192"FDefine a constant instead of duplicating this literal "dept1" 3 times.(ƒåêëúÿÿÿÿ8õ ùßÈ.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(á©¦şÿÿÿÿ8¢‘àÈ.
+K
+java:S1481")Remove this unused "dept" local variable.(ŸæÁ®øÿÿÿÿ8ËøßÈ.
+I
+java:S16024",Remove useless curly braces around statement(„²Ïï8¢‘àÈ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«á·Í8üôÇâÈ.
+Z
+java:S1854"8Remove this useless assignment to local variable "dept".(ŸæÁ®øÿÿÿÿ8ËøßÈ.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(á©¦şÿÿÿÿ8¸©‚àÈ.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·Óú8¢§êßÈ.
+N
+java:S1602&",Remove useless curly braces around statement(‹àá…úÿÿÿÿ8¸©‚àÈ.
+]	java:S125"<This block of commented-out lines of code should be removed.(çÆü†ùÿÿÿÿ8¥ÔÈâÈ.

@@ -1,0 +1,13 @@
+
+0
+java:S1220""Move this file to a named package.
+S
+java:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ
+5
+java:S1659"Declare "j" on a separate line.(—»‹Ê
+5
+java:S1659"Declare "k" on a separate line.(—»‹Ê
+S
+java:S1197"8Move the array designator from the variable to the type.(¿ÆğÛùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Úı¾Ìøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

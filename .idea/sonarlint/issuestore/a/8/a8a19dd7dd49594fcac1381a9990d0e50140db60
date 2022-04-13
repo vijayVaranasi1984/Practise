@@ -1,0 +1,23 @@
+
+l
+java:S2095"QUse try-with-resources or close this "ServerSocketChannel" in a "finally" clause.(¬·þ¤øÿÿÿÿ
+a
+java:S2095"FUse try-with-resources or close this "Selector" in a "finally" clause.(ŠÞö ùÿÿÿÿ
+E
+java:S3740!"/Provide the parametrized type for this generic.(´œþü
+J
+java:S3740""/Provide the parametrized type for this generic.(ËÛ»µýÿÿÿÿ
+8
+java:S2189""Add an end condition to this loop.(´ÿÕ™
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬·þ¤øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùêÂšúÿÿÿÿ
+W
+java:S1854"<Remove this useless assignment to local variable "selectKy".(º÷êŽÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ó—†–
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚á¯¹
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Íúû„ÿÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Š™±
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ö¿ú¾ùÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(“ÀÅ¥úÿÿÿÿ
+H
+java:S1481"-Remove this unused "selectKy" local variable.(º÷êŽÿÿÿÿÿ

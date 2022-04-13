@@ -1,0 +1,15 @@
+
+h
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(È˜Â‰ûÿÿÿÿ
+i
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ÆĞûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ÙŞîøÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(áĞ½ãùÿÿÿÿ
+V	java:S125#"<This block of commented-out lines of code should be removed.(ø—şÿÿÿÿ
+Q	java:S125&"<This block of commented-out lines of code should be removed.(È®´Â
+Q	java:S125,"<This block of commented-out lines of code should be removed.(¢Ï˜…
+Q	java:S125/"<This block of commented-out lines of code should be removed.(½•ò”
+Q	java:S1256"<This block of commented-out lines of code should be removed.(Ï‡°©
+V	java:S125:"<This block of commented-out lines of code should be removed.(”° ¢şÿÿÿÿ
